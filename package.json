@@ -1,5 +1,5 @@
 {
-  "name": "audiofabric",
+  "name": "elijah",
   "version": "0.0.1",
   "scripts": {
     "start": "budo src/index.js:bundle.js --live --open",
